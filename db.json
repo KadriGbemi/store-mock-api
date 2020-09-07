@@ -1,103 +1,103 @@
 {
   "products": [
     {
-      "category": 1,
+      "category": "men",
       "id": 1,
-      "title": "Clothings",
+      "title": "London Britches",
       "description": "accusamus beatae ad facilis cum similique qui sunt",
       "url": "https://via.placeholder.com/600/92c952",
       "thumbnailUrl": "https://via.placeholder.com/150/92c952"
     },
     {
-      "category": 1,
+      "category": "women",
       "id": 2,
-      "title": "Clothings",
+      "title": "Catwalk Juniors Clothing",
       "description": "reprehenderit est deserunt velit ipsam",
       "url": "https://via.placeholder.com/600/771796",
       "thumbnailUrl": "https://via.placeholder.com/150/771796"
     },
     {
-      "category": 1,
+      "category": "girls",
       "id": 3,
-      "title": "Clothings",
+      "title": "Bewitched Boutique",
       "description": "officia porro iure quia iusto qui ipsa ut modi",
       "url": "https://via.placeholder.com/600/24f355",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     },
     {
-      "category": 1,
+      "category": "men",
       "id": 4,
-      "title": "Clothings",
+      "title": "Porcelain Apparel",
       "description": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
       "url": "https://via.placeholder.com/600/d32776",
       "thumbnailUrl": "https://via.placeholder.com/150/d32776"
     },
     {
-      "category": 1,
+      "category": "women",
       "id": 5,
-      "title": "Clothings",
+      "title": "Aqua 4 Swimwear",
       "description": "natus nisi omnis corporis facere molestiae rerum in",
       "url": "https://via.placeholder.com/600/f66b97",
       "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
     },
     {
-      "category": 1,
+      "category": "boys",
       "id": 6,
-      "title": "Clothings",
+      "title": "Adventure Apparel Co",
       "description": "accusamus ea aliquid et amet sequi nemo",
       "url": "https://via.placeholder.com/600/56a8c2",
       "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
     },
     {
-      "category": 1,
+      "category": "men",
       "id": 7,
-      "title": "Clothings",
+      "title": "Hunny Bunny Baby",
       "description": "officia delectus consequatur vero aut veniam explicabo molestias",
       "url": "https://via.placeholder.com/600/b0f7cc",
       "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
     },
     {
-      "category": 1,
+      "category": "girls",
       "id": 8,
-      "title": "Clothings",
+      "title": "Rosebuds for Girls",
       "description": "aut porro officiis laborum odit ea laudantium corporis",
       "url": "https://via.placeholder.com/600/54176f",
       "thumbnailUrl": "https://via.placeholder.com/150/54176f"
     },
     {
-      "category": 1,
+      "category": "kids",
       "id": 9,
-      "title": "Clothings",
+      "title": "Rosy Cheeks Children’s Apparel",
       "description": "qui eius qui autem sed",
       "url": "https://via.placeholder.com/600/51aa97",
       "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
     },
      {
-      "category": 1,
+      "category": "boys",
       "id": 10,
-      "title": "Clothings",
+      "title": "Hendrix",
       "description": "beatae et provident et ut vel",
       "url": "https://via.placeholder.com/600/810b14",
       "thumbnailUrl": "https://via.placeholder.com/150/810b14"
     },
     {
-      "category": 1,
+      "category": "kids",
       "id": 11,
-      "title": "Clothings",
+      "title": "Studio 51 Clothing Co.",
       "description": "nihil at amet non hic quia qui",
       "url": "https://via.placeholder.com/600/1ee8a4",
       "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
     },
     {
-      "category": 1,
+      "category": "boys",
       "id": 12,
-      "title": "Clothings",
+      "title": "Tanked Up Cos",
       "description": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
       "url": "https://via.placeholder.com/600/66b7d2",
       "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
     },
     {
-      "category": 1,
+      "category": "girls",
       "id": 13,
       "title": "Clothings",
       "description": "repudiandae iusto deleniti rerum",
@@ -105,15 +105,15 @@
       "thumbnailUrl": "https://via.placeholder.com/150/197d29"
     },
     {
-      "category": 1,
+      "category": "women",
       "id": 14,
-      "title": "Clothings",
+      "title": "After Market",
       "description": "est necessitatibus architecto ut laborum",
       "url": "https://via.placeholder.com/600/61a65",
       "thumbnailUrl": "https://via.placeholder.com/150/61a65"
     },
     {
-      "category": 1,
+      "category": "men",
       "id": 15,
       "title": "Clothings",
       "description": "harum dicta similique quis dolore earum ex qui",
@@ -121,41 +121,41 @@
       "thumbnailUrl": "https://via.placeholder.com/150/f9cee5"
     },
     {
-      "category": 1,
+      "category": "kids",
       "id": 16,
-      "title": "Clothings",
+      "title": "Love of Fashion",
       "description": "iusto sunt nobis quasi veritatis quas expedita voluptatum deserunt",
       "url": "https://via.placeholder.com/600/fdf73e",
       "thumbnailUrl": "https://via.placeholder.com/150/fdf73e"
     },
     {
-      "category": 1,
+      "category": "boys",
       "id": 17,
-      "title": "Clothings",
+      "title": "Spotlight on Style",
       "description": "natus doloribus necessitatibus ipsa",
       "url": "https://via.placeholder.com/600/9c184f",
       "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
     },
     {
-      "category": 1,
+      "category": "kids",
       "id": 18,
-      "title": "Clothings",
+      "title": "For all",
       "description": "laboriosam odit nam necessitatibus et illum dolores reiciendis",
       "url": "https://via.placeholder.com/600/1fe46f",
       "thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
     },
     {
-      "category": 1,
+      "category": "girls",
       "id": 19,
-      "title": "Clothings",
+      "title": "Marika",
       "description": "perferendis nesciunt eveniet et optio a",
       "url": "https://via.placeholder.com/600/56acb2",
       "thumbnailUrl": "https://via.placeholder.com/150/56acb2"
     },
     {
-      "category": 1,
+      "category": "kids",
       "id": 20,
-      "title": "Clothings",
+      "title": "Coco + Carmen",
       "description": "assumenda voluptatem laboriosam enim consequatur veniam placeat reiciendis error",
       "url": "https://via.placeholder.com/600/8985dc",
       "thumbnailUrl": "https://via.placeholder.com/150/8985dc"
